@@ -203,7 +203,7 @@
         "downstream": true,
         "ghoststream": false,
         "radiostream": true,
-        "statusstream": true,
+        "statusstream": false,
         /* node server */
         "server_address": "127.0.0.1",
         "serv_port_up": 1680,
